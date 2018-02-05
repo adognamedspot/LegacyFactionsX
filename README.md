@@ -1,2 +1,2 @@
 # LegacyFactionsX
-Fork of the popular Spigot plugin LegacyFactions by 
+Fork of the popular Spigot plugin LegacyFactions by MarkehMe
